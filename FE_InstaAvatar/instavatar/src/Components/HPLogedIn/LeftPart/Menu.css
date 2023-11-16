@@ -1,0 +1,23 @@
+.Icon {
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+#MenuButton {
+  object-fit: cover;
+  background: none;
+  height: 40px;
+  
+ 
+}
+#MenuTitle {
+  height: 37px;
+}
+.No {
+  color: red;
+}
+#menu{
+  margin-bottom: 10px;
+  border: white inset 5px;
+  border-radius: 20px;
+}
